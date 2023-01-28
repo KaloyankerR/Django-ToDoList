@@ -1,7 +1,7 @@
 # ToDo list
-You login or register as a user in this project. Each user has their own tasks, which aren't visible for the others.
-All tasks can be managed with the help of the CRUD operations and the Django amdmin site. Also you get the option to drag the tasks, so that you can order them as you wish.
-Users can mark a task as completed or not completed, which will result in changing the circle in front of the task title to green. 
+You login or register as a user in this project. Each user has their own tasks, which aren't visible for the others.<br>
+All tasks can be managed with the help of the CRUD operations and the Django amdmin site. Also you get the option to drag the tasks, so that you can order them as you wish.<br>
+Users can mark a task as completed or not completed, which will result in changing the circle in front of the task title to green. <br>
 Another functionality of the project is that users can search for their task with the search tab.
 
 <!-- ABOUT THE PROJECT -->
