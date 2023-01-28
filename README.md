@@ -51,7 +51,6 @@ To get a local copy up and running follow these simple example steps.
     ```
 or just fill in the register page
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 The project can be used in many ways. The main is to track your tasks.
@@ -65,7 +64,6 @@ I've included a few of my favorites to kick things off!
 * [Django's documentation](https://docs.djangoproject.com/en/4.1/)
 * [Jinja's documentation](https://jinja.palletsprojects.com/en/3.1.x/)
 * [W3schools tutorial on Django](https://www.w3schools.com/django/)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
